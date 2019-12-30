@@ -1,2 +1,0 @@
-# Spruce
-fir-tree
